@@ -3,7 +3,7 @@
     "name": "HomeAssistant Cupertino Icons",
     "documentation": "https://github.com/menahishayan/HomeAssistant-Cupertino-Icons",
     "dependencies": ["frontend", "http"],
-    "codeowners": "@lnlyssg",
+    "codeowners": ["@lnlyssg"],
     "issue_tracker": "https://github.com/lnlyssg/HomeAssistant-Cupertino-Icons/issues",
     "requirements": [],
     "config_flow": true,
