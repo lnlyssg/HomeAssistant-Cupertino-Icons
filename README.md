@@ -1,3 +1,5 @@
+This fork was created when the main repo at https://github.com/menahishayan/HomeAssistant-Cupertino-Icons wasn't being updated, it has since received updates so this has fork now been archived.
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 
 # Home Assistant Cupertino Icons
